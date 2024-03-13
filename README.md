@@ -56,6 +56,6 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thedevratt&show_icons=true&theme=radical&locale=en" alt="thedevratt" />
 </a>
 <a href="">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevratt&show_icons=true&theme=radical&locale=en&layout=compact" alt="thedevratt" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevratt&show_icons=true&theme=radical&locale=en&layout=compact&card_width=320" alt="thedevratt" />
 </a>
 </p>
