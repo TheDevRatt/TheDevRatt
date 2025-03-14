@@ -9,8 +9,8 @@
 
 - 3.9/4.0 GPA
 - Continual Dean's List Qualifier
-- Innovation Award <small>(Awarded at the Habitat for Humanity Canada Conference)</small>
-    Recognized for the innovative design strategies used to reduce parking requirements for condo projects while ensuring vehicle access for homeowners.
+- Innovation Award <i>(Awarded at the Habitat for Humanity Canada Conference)</i>
+    - Recognized for the innovative design strategies used to reduce parking requirements for condo projects while ensuring vehicle access for homeowners.
 
 <h2 align="left">My Socials</h2>
 <p align="left">
