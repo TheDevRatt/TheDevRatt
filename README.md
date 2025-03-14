@@ -1,20 +1,16 @@
-<h1 align="center">Hello, I'm Matthew Makary! 👋</h1>
+<h1 align="center">Hello, I'm Matthew! 👋</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedevratt&label=Profile%20views&color=0e75b6&style=flat" alt="thedevratt" /> </p>
 
-<h2 align="left">🚀 About Me</h3>
-<p>👨‍💻 I am a driven and passionate Software Developer currently pursuing my Bachelors with a <b>3.9GPA</b> @ <b>Trent University</b> with a specialization in <b>Software Engineering.</b> I have a deep interest in everything from Mobile App Development, Game Development and Full-Stack Web Development.</p>
-
-🤝 I enjoy working in a team and contributing to novel projects that aim to make the world a better place. Starting in September of 2023, I have taken on a mobile app development project for <b>Habitat for Humanity - Peterborough & Kawartha Region</b> to develop a ride-sharing application which aims to give low-income families a better chance at keeping rising costs down and their quality of life high. Feel free to check out the repository here: [PKRides](https://github.com/TheDevRatt/habitat-pkr-app)
-
-🛰️ Outside the world of tech, I love pursuing new skills and hobbies, the realms of tabletop gaming, music, artistry and plenty of reading are all in the cards when it comes to leisurely activities.
-
-☄️ I am currently looking to break into New Graduate roles in the Software Engineering space, if you're interested in learning more about me, check below for my socials, skills and achievements.
+<h2 align="left">About Me</h3>
+<p>I am a Software Developer currently working with the <b>University of Toronto</b>. I've graduated with a B.Sc in Software Engineering with a <b>3.9GPA</b> @ <b>Trent University.</b> My interest in the open source community is far-reaching with specifics in Mobile App Development, Game Development to Full-Stack Web Development!</p>
 
 <h2 align="left">🏅 Achievements </h2>
 
 - 3.9/4.0 GPA
 - Continual Dean's List Qualifier
+- Innovation Award [Awarded at the Habitat for Humanity Canada Conference]
+-    Recognized for the innovative design strategies used to reduce parking requirements for condo projects while ensuring vehicle access for homeowners.
 
 <h2 align="left">My Socials</h2>
 <p align="left">
