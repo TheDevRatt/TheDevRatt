@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedevratt&label=Profile%20views&color=0e75b6&style=flat" alt="thedevratt" /> </p>
 
 <h2 align="left">About Me</h3>
-<p>I am a Software Developer currently working with the <b>University of Toronto</b>. I've graduated with a B.Sc in Software Engineering with a <b>3.9GPA</b> @ <b>Trent University.</b> My interest in the open source community is far-reaching with specifics in Mobile App Development, Game Development to Full-Stack Web Development!</p>
+<p>I am a Software Developer currently looking for new positions in Full-Stack Developement and Systems Design. I've graduated with a B.Sc in Software Engineering with a <b>3.9GPA</b> @ <b>Trent University.</b> My interest in the open source community is far-reaching with specifics in Mobile App Development, Game Development to Full-Stack Web Development!</p>
 
 <h2 align="left">🏅 Achievements </h2>
 
