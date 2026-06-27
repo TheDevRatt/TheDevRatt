@@ -1,54 +1,59 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="TheDevRatt anime arcade profile banner" />
+  <img src="https://media.giphy.com/media/3p2aaslBBYGqEuHzeR/giphy.gif" width="720" alt="anime cyber terminal gif" />
 </div>
+
+<h1 align="center">THEDEVRATT.EXE</h1>
+
+<p align="center">
+  <code>anime terminal gremlin</code> ·
+  <code>game-dev side quests</code> ·
+  <code>bots with personality</code> ·
+  <code>weird UI enjoyer</code>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=950&color=F0ABFC&center=true&vCenter=true&width=950&lines=anime-coded+dev+gremlin;C%23+%2F+.NET+%2F+TypeScript+%2F+Godot;I+make+useful+things+look+a+little+cursed;currently+grinding+the+game-dev+sidequest" alt="typing intro" />
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-171717?style=for-the-badge&labelColor=ff4fd8&color=171717" alt="C# and .NET" />
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&labelColor=7dd3fc&color=171717" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Godot-171717?style=for-the-badge&labelColor=8b5cf6&color=171717" alt="Godot" />
+  <img src="https://img.shields.io/badge/Discord%20bots-171717?style=for-the-badge&labelColor=f0abfc&color=171717" alt="Discord bots" />
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/build-C%23%20%2B%20TypeScript-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="C# and TypeScript" />
-  <img src="https://img.shields.io/badge/engine-Godot-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Godot" />
-  <img src="https://img.shields.io/badge/vibe-anime%20arcade%20lab-F0ABFC?style=for-the-badge&labelColor=0D1117" alt="anime arcade lab" />
-</div>
-
-<img src="./assets/divider.svg" alt="neon divider" />
 
 ```txt
-╭─ current save file ─────────────────────────────────────╮
-│ handle        TheDevRatt                                │
-│ class         full-stack dev / game-tools gremlin        │
-│ main weapon   C# + .NET                                  │
-│ alt weapon    TypeScript + React + Angular               │
-│ side quests   Godot, Steamworks, Discord bots, UI magic  │
-│ weakness      "what if this had a little more personality" │
-╰──────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════╗
+║ save slot:  TheDevRatt                              ║
+║ class:      full-stack dev who wandered off-map      ║
+║ build:      C#/.NET, TypeScript, React, Angular      ║
+║ alt build:  Godot, Python, SQL, Discord tooling      ║
+║ status:     making useful software slightly haunted  ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-## now playing
+<img align="right" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="330" alt="anime computer terminal gif" />
 
-I build web apps, bots, game tools, and tiny utilities that usually start with "this is probably a bad idea" and then become real anyway.
+## now loading
 
-The serious stack is C#/.NET, TypeScript, React, Angular, SQL Server, Python, Java, and Godot. The less serious but equally important stack is anime menus, RPG HUDs, Discord gremlins, rhythm-game brainrot, and making software feel like it has a soul instead of a corporate onboarding flow.
+I make web apps, Discord bots, game tools, and small utilities that usually start as a bit and then turn into actual software.
 
-I like projects that are clean under the hood but still have some sparkle on the surface. If the UI looks like a magic terminal from a game that should have had a 24-episode anime adaptation, I'm probably having a good time.
+The sweet spot is stuff that works, but still has a pulse. A bot that feels a little like a character. A dev tool that does the boring thing without looking like tax software. A game system that makes C# and Godot stop fighting each other for five minutes.
 
-## party loadout
+If it feels like a cursed terminal, an RPG menu, a visual novel settings screen, or some late-night anime hacker nonsense, I am probably interested.
+
+<br clear="right" />
+
+## inventory
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,nodejs,python,java,godot,git,github,figma,html,css,mysql&perline=8" alt="C#, .NET, TypeScript, JavaScript, React, Angular, Node.js, Python, Java, Godot, Git, GitHub, Figma, HTML, CSS, MySQL" />
 </div>
 
 ```txt
-frontend      React / Angular / TypeScript
-backend       C# / ASP.NET / SQL Server / Node
-game stuff    Godot 4 / C# / Steamworks experiments
-utility       Python / Git / Figma / whatever solves the problem
+frontend      TypeScript, React, Angular
+backend       C#, ASP.NET, SQL Server, Node
+game tools    Godot 4, C#, Steamworks experiments
+side magic    Python scripts, Discord bots, UI polish
 ```
 
-<img src="./assets/divider.svg" alt="neon divider" />
-
-## quest log
+## quest board
 
 <div align="center">
   <a href="https://github.com/TheDevRatt/Manifold">
@@ -65,26 +70,30 @@ utility       Python / Git / Figma / whatever solves the problem
   </a>
 </div>
 
-## recurring arcs
+## recurring brainworms
 
-- building game-adjacent tools that make Godot and C# play nicer together
-- making Discord bots feel more like characters and less like appliances
-- turning small annoyances into weirdly polished utilities
-- chasing UI that lands somewhere between command center, visual novel, and arcade cabinet
-- learning systems deeply enough to make them behave
-- occasionally overengineering something because the bit was funny
+```txt
+[01] Godot + C# tooling
+[02] Steamworks integration
+[03] Discord bots that are a little too alive
+[04] UI with game menu energy
+[05] tiny automations for annoying chores
+[06] software that feels personal instead of sterile
+```
 
-## activity feed
+<div align="center">
+  <img src="https://media.giphy.com/media/NseJL9Zj9kttS/giphy.gif" width="520" alt="cyber interface gif" />
+</div>
+
+## signal
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDevRatt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevRatt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&title_color=F0ABFC&text_color=C9D1D9" alt="Top languages" />
 </div>
 
-<img src="./assets/divider.svg" alt="neon divider" />
-
 <div align="center">
-  <sub>profile views, because number go up makes the goblin brain happy</sub>
+  <sub>profile views, because number go up still works on me</sub>
   <br />
   <img src="https://komarev.com/ghpvc/?username=TheDevRatt&label=profile%20views&color=ff69b4&style=flat" alt="profile views" />
 </div>
