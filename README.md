@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="720" alt="anime coding desk gif" />
+  <img src="./assets/banner.png" alt="TheDevRatt custom anime girl cyber dev banner" />
 </div>
 
-<h1 align="center">THEDEVRATT.EXE</h1>
+<h1 align="center">thedevratt.exe</h1>
 
 <p align="center">
-  <code>anime terminal gremlin</code> ·
+  <code>anime girl terminal gremlin</code> ·
   <code>game-dev side quests</code> ·
   <code>bots with personality</code> ·
-  <code>weird UI enjoyer</code>
+  <code>useful software, suspicious vibes</code>
 </p>
 
 <div align="center">
@@ -28,19 +28,15 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## now loading
+## now airing
 
 I make web apps, Discord bots, game tools, and small utilities that usually start as a bit and then turn into actual software.
 
 The sweet spot is stuff that works, but still has a pulse. A bot that feels a little like a character. A dev tool that does the boring thing without looking like tax software. A game system that makes C# and Godot stop fighting each other for five minutes.
 
-If it feels like a cursed terminal, an RPG menu, a visual novel settings screen, or some late-night anime hacker nonsense, I am probably interested.
+If the UI feels like a visual novel menu, a cursed terminal, a late-night anime hacker desk, or an RPG settings screen, I am probably interested.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/rzrF4bm9nDMdu47z3M/giphy.gif" width="560" alt="anime cyber interface gif" />
-</div>
-
-## inventory
+## loadout
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,nodejs,python,java,godot,git,github,figma,html,css,mysql&perline=8" alt="C#, .NET, TypeScript, JavaScript, React, Angular, Node.js, Python, Java, Godot, Git, GitHub, Figma, HTML, CSS, MySQL" />
@@ -53,7 +49,7 @@ game tools    Godot 4, C#, Steamworks experiments
 side magic    Python scripts, Discord bots, UI polish
 ```
 
-## quest board
+## episode list
 
 <div align="center">
   <a href="https://github.com/TheDevRatt/Manifold">
@@ -76,7 +72,7 @@ side magic    Python scripts, Discord bots, UI polish
 [01] Godot + C# tooling
 [02] Steamworks integration
 [03] Discord bots that are a little too alive
-[04] UI with game menu energy
+[04] UI with game menu / anime menu energy
 [05] tiny automations for annoying chores
 [06] software that feels personal instead of sterile
 ```
