@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Anime collage banner for TheDevRatt" />
+  <img src="./assets/banner.png" alt="Central pink anime profile banner for TheDevRatt" />
 </div>
 
 <h1 align="center">TheDevRatt</h1>
