@@ -77,8 +77,8 @@ utility       Python / Git / Figma / whatever solves the problem
 ## activity feed
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDevRatt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&title_color=F0ABFC&icon_color=7DD3FC" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevRatt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&title_color=F0ABFC" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDevRatt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevRatt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&title_color=F0ABFC&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <img src="./assets/divider.svg" alt="neon divider" />
