@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3p2aaslBBYGqEuHzeR/giphy.gif" width="720" alt="anime cyber terminal gif" />
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="720" alt="anime coding desk gif" />
 </div>
 
 <h1 align="center">THEDEVRATT.EXE</h1>
@@ -28,8 +28,6 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img align="right" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="330" alt="anime computer terminal gif" />
-
 ## now loading
 
 I make web apps, Discord bots, game tools, and small utilities that usually start as a bit and then turn into actual software.
@@ -38,7 +36,9 @@ The sweet spot is stuff that works, but still has a pulse. A bot that feels a li
 
 If it feels like a cursed terminal, an RPG menu, a visual novel settings screen, or some late-night anime hacker nonsense, I am probably interested.
 
-<br clear="right" />
+<div align="center">
+  <img src="https://media.giphy.com/media/rzrF4bm9nDMdu47z3M/giphy.gif" width="560" alt="anime cyber interface gif" />
+</div>
 
 ## inventory
 
@@ -80,10 +80,6 @@ side magic    Python scripts, Discord bots, UI polish
 [05] tiny automations for annoying chores
 [06] software that feels personal instead of sterile
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/NseJL9Zj9kttS/giphy.gif" width="520" alt="cyber interface gif" />
-</div>
 
 ## signal
 
