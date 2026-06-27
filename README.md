@@ -1,95 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:7C3AED,100:06B6D4&text=TheDevRatt&fontColor=F8FAFC&fontSize=58&animation=twinkling&desc=save%20file%20loaded%20%7C%20Matthew%20Makary&descAlignY=72&descSize=18" alt="TheDevRatt header" />
+  <img src="./assets/banner.svg" alt="TheDevRatt anime arcade profile banner" />
 </div>
 
 <div align="center">
-  <a href="mailto:matthew_makary@outlook.com"><img src="https://img.shields.io/badge/email-matthew__makary%40outlook.com-06B6D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/matthew-makary/"><img src="https://img.shields.io/badge/linkedin-matthew%20makary-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://github.com/TheDevRatt?tab=repositories"><img src="https://img.shields.io/badge/github-TheDevRatt-111827?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=950&color=F0ABFC&center=true&vCenter=true&width=950&lines=anime-coded+dev+gremlin;C%23+%2F+.NET+%2F+TypeScript+%2F+Godot;I+make+useful+things+look+a+little+cursed;currently+grinding+the+game-dev+sidequest" alt="typing intro" />
 </div>
-
-<br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=full-stack+dev+with+game-dev+brainworms;C%23+%2B+.NET+%2B+TypeScript+%2B+Godot;anime%2C+gaming%2C+bots%2C+and+weird+little+tools;shipping+things+that+feel+nice+to+use" alt="typing intro" />
+  <img src="https://img.shields.io/badge/build-C%23%20%2B%20TypeScript-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="C# and TypeScript" />
+  <img src="https://img.shields.io/badge/engine-Godot-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Godot" />
+  <img src="https://img.shields.io/badge/vibe-anime%20arcade%20lab-F0ABFC?style=for-the-badge&labelColor=0D1117" alt="anime arcade lab" />
 </div>
+
+<img src="./assets/divider.svg" alt="neon divider" />
 
 ```txt
-> booting profile...
-> player: Matthew Makary / TheDevRatt
-> class: full-stack developer
-> main stats: C#/.NET, TypeScript, React, Angular, SQL Server, Godot
-> side quests: anime, games, Discord bots, UI polish, automation gremlins
+╭─ current save file ─────────────────────────────────────╮
+│ handle        TheDevRatt                                │
+│ class         full-stack dev / game-tools gremlin        │
+│ main weapon   C# + .NET                                  │
+│ alt weapon    TypeScript + React + Angular               │
+│ side quests   Godot, Steamworks, Discord bots, UI magic  │
+│ weakness      "what if this had a little more personality" │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-## current save file
+## now playing
 
-hey, i'm matthew. i build web apps, bots, game tools, and the occasional weird little thing that starts as "wouldn't it be funny if..." and then somehow becomes a whole project.
+I build web apps, bots, game tools, and tiny utilities that usually start with "this is probably a bad idea" and then become real anyway.
 
-Most of my serious work is C#/.NET and TypeScript, but my brain keeps wandering into Godot, Steamworks, Discord tooling, game UX, and anything that makes software feel a little more alive. I like clean internals, sharp UI, and projects with some personality in the walls.
+The serious stack is C#/.NET, TypeScript, React, Angular, SQL Server, Python, Java, and Godot. The less serious but equally important stack is anime menus, RPG HUDs, Discord gremlins, rhythm-game brainrot, and making software feel like it has a soul instead of a corporate onboarding flow.
 
-I graduated from Trent University with a B.Sc. in Computer Science, a 3.9 GPA, Dean's List standing, and Academic Honours. I'm looking for full-stack or systems-adjacent roles where I can ship useful stuff, learn fast, and keep leveling up.
+I like projects that are clean under the hood but still have some sparkle on the surface. If the UI looks like a magic terminal from a game that should have had a 24-episode anime adaptation, I'm probably having a good time.
 
-## build loadout
+## party loadout
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,nodejs,python,java,godot,git,github,figma,html,css,mysql&perline=8" alt="C#, .NET, TypeScript, JavaScript, React, Angular, Node.js, Python, Java, Godot, Git, GitHub, Figma, HTML, CSS, MySQL" />
 </div>
 
 ```txt
-main weapon      C# / .NET
-secondary        TypeScript / React / Angular
-utility belt     Python / Node / SQL / Git
-favorite engine  Godot
-current vibe     make it useful, make it pretty, make it a little strange
+frontend      React / Angular / TypeScript
+backend       C# / ASP.NET / SQL Server / Node
+game stuff    Godot 4 / C# / Steamworks experiments
+utility       Python / Git / Figma / whatever solves the problem
 ```
 
-## selected save files
+<img src="./assets/divider.svg" alt="neon divider" />
+
+## quest log
 
 <div align="center">
   <a href="https://github.com/TheDevRatt/Manifold">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=Manifold&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=C084FC" alt="Manifold" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=Manifold&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="Manifold" />
   </a>
   <a href="https://github.com/TheDevRatt/ChizuChan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=ChizuChan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=C084FC" alt="ChizuChan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=ChizuChan&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="ChizuChan" />
   </a>
   <a href="https://github.com/TheDevRatt/Discord-Cropper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=Discord-Cropper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=C084FC" alt="Discord-Cropper" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=Discord-Cropper&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="Discord-Cropper" />
   </a>
   <a href="https://github.com/TheDevRatt/habitat-pkr-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=habitat-pkr-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=C084FC" alt="Habitat PKR app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDevRatt&repo=habitat-pkr-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="Habitat PKR app" />
   </a>
 </div>
 
-## side quests i keep accepting
+## recurring arcs
 
-- Godot 4 + C# experiments
-- Steamworks integration and multiplayer game tooling
-- Discord bots with too much personality
-- UI that feels like a game menu in the best way
-- tiny automation tools that delete one annoying chore at a time
-- anime/gaming-inspired interfaces that still do real work
+- building game-adjacent tools that make Godot and C# play nicer together
+- making Discord bots feel more like characters and less like appliances
+- turning small annoyances into weirdly polished utilities
+- chasing UI that lands somewhere between command center, visual novel, and arcade cabinet
+- learning systems deeply enough to make them behave
+- occasionally overengineering something because the bit was funny
 
-## github pulse
+## activity feed
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDevRatt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&title_color=7DD3FC&icon_color=C084FC" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevRatt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&title_color=7DD3FC" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDevRatt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&title_color=F0ABFC&icon_color=7DD3FC" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevRatt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&title_color=F0ABFC" alt="Top languages" />
 </div>
 
-## summon circle
-
-If you're hiring, building something cool, or just want to talk code, games, bots, or deeply unnecessary UI polish, come say hi.
+<img src="./assets/divider.svg" alt="neon divider" />
 
 <div align="center">
-  <a href="mailto:matthew_makary@outlook.com"><img src="https://img.shields.io/badge/send%20an%20email-06B6D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="send an email" /></a>
-  <a href="https://www.linkedin.com/in/matthew-makary/"><img src="https://img.shields.io/badge/connect%20on%20linkedin-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect on linkedin" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <sub>profile views, because the tiny number going up gives my goblin brain serotonin</sub>
+  <sub>profile views, because number go up makes the goblin brain happy</sub>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=TheDevRatt&label=profile%20views&color=7C3AED&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TheDevRatt&label=profile%20views&color=ff69b4&style=flat" alt="profile views" />
 </div>
