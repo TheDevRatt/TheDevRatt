@@ -1,55 +1,53 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="TheDevRatt custom anime girl cyber dev banner" />
+  <img src="./assets/banner.png" alt="Anime collage banner for TheDevRatt" />
 </div>
 
-<h1 align="center">thedevratt.exe</h1>
+<h1 align="center">TheDevRatt</h1>
 
 <p align="center">
-  <code>anime girl terminal gremlin</code> ·
-  <code>game-dev side quests</code> ·
-  <code>bots with personality</code> ·
-  <code>useful software, suspicious vibes</code>
+  <code>Anime-Coded Software</code> ·
+  <code>Game Dev Side Quests</code> ·
+  <code>Discord Bots With Personality</code> ·
+  <code>Useful Tools With Style</code>
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-171717?style=for-the-badge&labelColor=ff4fd8&color=171717" alt="C# and .NET" />
   <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&labelColor=7dd3fc&color=171717" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Godot-171717?style=for-the-badge&labelColor=8b5cf6&color=171717" alt="Godot" />
-  <img src="https://img.shields.io/badge/Discord%20bots-171717?style=for-the-badge&labelColor=f0abfc&color=171717" alt="Discord bots" />
+  <img src="https://img.shields.io/badge/Discord%20Bots-171717?style=for-the-badge&labelColor=f0abfc&color=171717" alt="Discord bots" />
 </div>
 
 ```txt
-╔══════════════════════════════════════════════════════╗
-║ save slot:  TheDevRatt                              ║
-║ class:      full-stack dev who wandered off-map      ║
-║ build:      C#/.NET, TypeScript, React, Angular      ║
-║ alt build:  Godot, Python, SQL, Discord tooling      ║
-║ status:     making useful software slightly haunted  ║
-╚══════════════════════════════════════════════════════╝
+Profile      TheDevRatt
+Class        Full-stack developer off the main route
+Build        C#/.NET, TypeScript, React, Angular
+Alt Build    Godot, Python, SQL, Discord tooling
+Status       Building useful software with visual-novel menu energy
 ```
 
-## now airing
+## Now Airing
 
-I make web apps, Discord bots, game tools, and small utilities that usually start as a bit and then turn into actual software.
+I build web apps, Discord bots, game tools, and small utilities that usually start as odd little ideas and become real software.
 
-The sweet spot is stuff that works, but still has a pulse. A bot that feels a little like a character. A dev tool that does the boring thing without looking like tax software. A game system that makes C# and Godot stop fighting each other for five minutes.
+The sweet spot is practical software with a bit of taste: bots that feel personal, tools that remove boring work, game systems that make C# and Godot behave, and interfaces that look more like a late-night anime menu than a tax form.
 
-If the UI feels like a visual novel menu, a cursed terminal, a late-night anime hacker desk, or an RPG settings screen, I am probably interested.
+This page is not trying to be a corporate brochure. It is the side of my work that likes polished systems, weird menus, and overbuilt side quests.
 
-## loadout
+## Loadout
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,nodejs,python,java,godot,git,github,figma,html,css,mysql&perline=8" alt="C#, .NET, TypeScript, JavaScript, React, Angular, Node.js, Python, Java, Godot, Git, GitHub, Figma, HTML, CSS, MySQL" />
 </div>
 
 ```txt
-frontend      TypeScript, React, Angular
-backend       C#, ASP.NET, SQL Server, Node
-game tools    Godot 4, C#, Steamworks experiments
-side magic    Python scripts, Discord bots, UI polish
+Frontend      TypeScript, React, Angular
+Backend       C#, ASP.NET, SQL Server, Node.js
+Game Tools    Godot 4, C#, Steamworks experiments
+Side Magic    Python scripts, Discord bots, UI polish
 ```
 
-## episode list
+## Featured Quests
 
 <div align="center">
   <a href="https://github.com/TheDevRatt/Manifold">
@@ -66,18 +64,18 @@ side magic    Python scripts, Discord bots, UI polish
   </a>
 </div>
 
-## recurring brainworms
+## Current Fixations
 
 ```txt
-[01] Godot + C# tooling
+[01] Godot and C# tooling
 [02] Steamworks integration
-[03] Discord bots that are a little too alive
-[04] UI with game menu / anime menu energy
-[05] tiny automations for annoying chores
-[06] software that feels personal instead of sterile
+[03] Discord bots with character
+[04] Game-menu and anime-menu UI
+[05] Tiny automations for annoying chores
+[06] Software that feels personal instead of sterile
 ```
 
-## signal
+## Signal
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDevRatt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&title_color=F0ABFC&text_color=C9D1D9&icon_color=7DD3FC" alt="GitHub stats" />
@@ -85,7 +83,7 @@ side magic    Python scripts, Discord bots, UI polish
 </div>
 
 <div align="center">
-  <sub>profile views, because number go up still works on me</sub>
+  <sub>Profile views, because number go up still works on me.</sub>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=TheDevRatt&label=profile%20views&color=ff69b4&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TheDevRatt&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </div>
